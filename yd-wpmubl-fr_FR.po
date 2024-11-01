@@ -1,0 +1,347 @@
+# YD WPMU BLOGLIST WIDGET.
+# Copyright (C) 2009 yann.com
+# This file is distributed under the same license as the yd-wpmu-bloglist-widget package.
+# FIRST AUTHOR <yann@abc.fr>, 2010.
+# <a href="http://wordpress.org/tag/yd-wpmu-bloglist-widget">
+# Yann Dubois <yann@abc.fr>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: yd-wpmu-bloglist-widget\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-06-24 14:41+0100\n"
+"Last-Translator: Yann Dubois <yann@abc.fr>\n"
+"Language-Team: Yann Dubois\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.5.2\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: yd-wpmu-bloglist-widget.php:86
+msgid " post%S% )</span>"
+msgstr " billet%S% )</span>"
+
+#: yd-wpmu-bloglist-widget.php:90
+msgid "%B% blog"
+msgstr "blog &laquo;%B%&raquo;"
+
+#: yd-wpmu-bloglist-widget.php:119
+#: yd-wpmu-bloglist-widget.php:151
+msgid "YD WPMU Bloglist Options"
+msgstr "Options de YD WPMU Bloglist"
+
+#: yd-wpmu-bloglist-widget.php:121
+#: yd-wpmu-bloglist-widget.php:558
+#: yd-wpmu-bloglist-widget.php:559
+msgid "YD WPMU Bloglist"
+msgstr "YD WPMU Bloglist"
+
+#: yd-wpmu-bloglist-widget.php:132
+msgid "This will disable the link in your blog footer. If you are using this plugin on your site and like it, did you consider making a donation? -- Thanks."
+msgstr "Ceci va désactiver le lien en bas de page. Puisque vous utilisez ce plugin sur votre site et que vous l'appréciez, avez-vous envisagé de faire un don ? -- Merci."
+
+#: yd-wpmu-bloglist-widget.php:155
+msgid "Action:"
+msgstr "Action :"
+
+#: yd-wpmu-bloglist-widget.php:156
+msgid "I should now"
+msgstr "Je dois maintenant faire :"
+
+#: yd-wpmu-bloglist-widget.php:157
+#: yd-wpmu-bloglist-widget.php:400
+msgid "Clear cache"
+msgstr "Vider le cache"
+
+#: yd-wpmu-bloglist-widget.php:159
+msgid "Caches are cleared"
+msgstr "Les caches sont vidés"
+
+#: yd-wpmu-bloglist-widget.php:160
+#: yd-wpmu-bloglist-widget.php:182
+#: yd-wpmu-bloglist-widget.php:401
+msgid "Reset widget options"
+msgstr "RAZ des options du widget"
+
+#: yd-wpmu-bloglist-widget.php:162
+msgid "Widget options are reset"
+msgstr "Les options du widget sont réinitialisées"
+
+#: yd-wpmu-bloglist-widget.php:163
+#: yd-wpmu-bloglist-widget.php:391
+msgid "Update widget options"
+msgstr "MAJ des options"
+
+#: yd-wpmu-bloglist-widget.php:165
+msgid "Widget options are updated"
+msgstr "Les options du widget sont à jour"
+
+#: yd-wpmu-bloglist-widget.php:172
+msgid "Welcome to YD WPMU Bloglist Admin Page."
+msgstr "Bienvenue dans la page d'administration de YD WPMU Bloglist"
+
+#: yd-wpmu-bloglist-widget.php:180
+msgid "Uh-oh. Looks like I lost my settings. Sorry."
+msgstr "Oh-oh, on dirait que j'ai perdu mes options. Désolé."
+
+#: yd-wpmu-bloglist-widget.php:200
+msgid "Considered donating?"
+msgstr "Envisagé de faire un don&nbsp;?"
+
+#: yd-wpmu-bloglist-widget.php:204
+msgid "Enjoy this plugin?"
+msgstr "Vous appréciez ce plugin&nbsp;?"
+
+#: yd-wpmu-bloglist-widget.php:204
+msgid "Help me improve it!"
+msgstr "Aidez-moi à l'améliorer&nbsp;!"
+
+#: yd-wpmu-bloglist-widget.php:209
+#: yd-wpmu-bloglist-widget.php:210
+msgid "en_US"
+msgstr "fr_FR"
+
+#: yd-wpmu-bloglist-widget.php:212
+msgid "Thanks"
+msgstr "Merci"
+
+#: yd-wpmu-bloglist-widget.php:219
+msgid "Disable backlink in the blog footer:"
+msgstr "Désactivation du lien en bas de page&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:232
+msgid "Credits"
+msgstr "Crédits"
+
+#: yd-wpmu-bloglist-widget.php:234
+msgid "Initial funding"
+msgstr "Financement initial"
+
+#: yd-wpmu-bloglist-widget.php:236
+msgid "Translations"
+msgstr "Traductions"
+
+#: yd-wpmu-bloglist-widget.php:238
+msgid "English:"
+msgstr "Anglais&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:239
+msgid "French:"
+msgstr "Français&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:240
+msgid "Spanish:"
+msgstr "Espagnol&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:241
+msgid "Galician:"
+msgstr "Galicien&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:242
+msgid "Dutch:"
+msgstr "Hollandais&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:244
+msgid "If you want to contribute to a translation of this plugin, please drop me a line by "
+msgstr "Si vous voulez proposer une traduction de ce plugin, veuillez me contacter par "
+
+#: yd-wpmu-bloglist-widget.php:245
+msgid "e-mail"
+msgstr "courriel"
+
+#: yd-wpmu-bloglist-widget.php:246
+msgid "or leave a comment on the "
+msgstr "ou laissez un commentaire sur la "
+
+#: yd-wpmu-bloglist-widget.php:247
+msgid "plugin's page"
+msgstr "page du plugin"
+
+#: yd-wpmu-bloglist-widget.php:248
+msgid "You will get credit for your translation in the plugin file and the documentation page, "
+msgstr "Vous serez crédité pour votre traduction dans le fichier du plugin et sa page de documentation, "
+
+#: yd-wpmu-bloglist-widget.php:249
+msgid "as well as a link on this page and on my developers' blog."
+msgstr "et vous obtiendrez un lien sur cette page, et sur mon blog de développeur."
+
+#: yd-wpmu-bloglist-widget.php:257
+msgid "Support"
+msgstr "Assistance"
+
+#: yd-wpmu-bloglist-widget.php:259
+msgid "Free support"
+msgstr "Support gratuit"
+
+#: yd-wpmu-bloglist-widget.php:261
+msgid "Support page:"
+msgstr "Page de support&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:262
+msgid "here."
+msgstr "ici."
+
+#: yd-wpmu-bloglist-widget.php:263
+msgid "(use comments!)"
+msgstr "(utilisez les commentaires&nbsp;!)"
+
+#: yd-wpmu-bloglist-widget.php:265
+msgid "Professional consulting"
+msgstr "Assistance professionnelle"
+
+#: yd-wpmu-bloglist-widget.php:266
+msgid "I am available as an experienced free-lance Wordpress plugin developer and web consultant. "
+msgstr "Je suis disponible en tant que développeur de plugins Wordpress expérimenté et consultant web. "
+
+#: yd-wpmu-bloglist-widget.php:267
+msgid "Please feel free to <a href=\"mailto:yann@abc.fr\">check with me</a> for any adaptation or specific implementation of this plugin. "
+msgstr "N'hésitez pas à <a href=\"mailto:yann@abc.fr\">me contacter</a> pour toute adaptation ou installation particulière de ce plugin. "
+
+#: yd-wpmu-bloglist-widget.php:268
+msgid "Or for any WP-related custom development or consulting work. Hourly rates available."
+msgstr "Ou pour tout développement sur mesure en rapport avec WP. Tarifs horaires disponibles."
+
+#: yd-wpmu-bloglist-widget.php:286
+msgid "HTML display options:"
+msgstr "Options d'affichage HTML&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:289
+msgid "Column count:"
+msgstr "Nombre de colonnes&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:292
+msgid "Before block:"
+msgstr "Avant le bloc&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:295
+msgid "After block:"
+msgstr "Après le bloc&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:298
+msgid "Before column:"
+msgstr "Avant une colonne&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:301
+msgid "After column:"
+msgstr "Après une colonne&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:304
+msgid "Before list:"
+msgstr "Avant la liste&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:307
+msgid "After list:"
+msgstr "Après la liste&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:310
+msgid "Before item:"
+msgstr "Avant un item&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:313
+msgid "After item:"
+msgstr "Après un item&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:316
+msgid "Before count:"
+msgstr "Avant le décompte&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:319
+msgid "After count:"
+msgstr "Après le décompte&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:323
+msgid "(use %S% to insert plural form; use &lt!-- and --&gt; to hide count)"
+msgstr "(utiliser %S% pour insérer la forme plurielle; utiliser &lt!-- et --&gt; pour cacher le décompte)"
+
+#: yd-wpmu-bloglist-widget.php:325
+msgid "Plural form:"
+msgstr "Forme plurielle&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:328
+msgid "Link ALT text:"
+msgstr "Texte du ALT des liens&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:331
+msgid "Link TITLE text:"
+msgstr "Texte du TITLE des liens&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:335
+msgid "(use %B% to insert blog name into link ALT or TITLE text)"
+msgstr "(utiliser %B% pour insérer le nom du blog dans les textes de balise ALT ou TITLE sur les liens)"
+
+#: yd-wpmu-bloglist-widget.php:345
+msgid "Data extract and sort options:"
+msgstr "Options d'extraction et de tri des données&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:348
+msgid "Limit:"
+msgstr "Limite&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:351
+msgid "(0 = no limit)"
+msgstr "(0 = pas de limite)"
+
+#: yd-wpmu-bloglist-widget.php:352
+msgid "Order by:"
+msgstr "Trier par&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:355
+msgid "Blog name"
+msgstr "Nom du blog"
+
+#: yd-wpmu-bloglist-widget.php:356
+msgid "Blog url path"
+msgstr "Chemin du blog (url)"
+
+#: yd-wpmu-bloglist-widget.php:357
+msgid "Blog post count"
+msgstr "Nombre de billets du blog"
+
+#: yd-wpmu-bloglist-widget.php:358
+msgid "Blog creation date"
+msgstr "Date de création du blog"
+
+#: yd-wpmu-bloglist-widget.php:359
+msgid "Blog last update"
+msgstr "Dernière MAJ du blog"
+
+#: yd-wpmu-bloglist-widget.php:360
+msgid "Blog ID"
+msgstr "ID du blog"
+
+#: yd-wpmu-bloglist-widget.php:368
+msgid "Sort order:"
+msgstr "Ordre de tri&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:371
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: yd-wpmu-bloglist-widget.php:372
+msgid "Descending"
+msgstr "Descendant"
+
+#: yd-wpmu-bloglist-widget.php:380
+msgid "Add trailing slashes to blog URLs:"
+msgstr "Ajouter des slashes à la fin des URLs&nbsp;: "
+
+#: yd-wpmu-bloglist-widget.php:540
+msgid "Widget title:"
+msgstr "Titre du widget&nbsp;:"
+
+#: yd-wpmu-bloglist-widget.php:645
+msgid "There are currently no active blogs."
+msgstr "Il n'y a actuellement aucun blog actif."
+
+#: yd-wpmu-bloglist-widget.php:852
+msgid "clear"
+msgstr "effacer"
+
+#: yd-wpmu-bloglist-widget.php:252
+msgid "German:"
+msgstr "Allemand&nbsp;:"
+

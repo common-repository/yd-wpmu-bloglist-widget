@@ -1,0 +1,219 @@
+# YD WPMU BLOGLIST WIDGET.
+# Copyright (C) 2009 yann.com
+# This file is distributed under the same license as the yd-wpmu-bloglist-widget package.
+# FIRST AUTHOR <yann@abc.fr>, 2009.
+# <a href="http://wordpress.org/tag/yd-wpmu-bloglist-widget">
+#
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Project-Id-Version: yd-wpmu-bloglist-widget\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: WordPressPluginGuide.com <info@wppg.me>\n"
+"Language-Team: Yann Dubois <yann@abc.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: yd-wpmu-bloglist-widget.php:100
+msgid "YD WPMU Bloglist Options"
+msgstr "YD WPMU Bloglist Opties"
+
+#: yd-wpmu-bloglist-widget.php:102
+#: yd-wpmu-bloglist-widget.php:370
+#: yd-wpmu-bloglist-widget.php:371
+msgid "YD WPMU Bloglist"
+msgstr "YD WPMU Bloglist"
+
+#: yd-wpmu-bloglist-widget.php:114
+msgid "Action:"
+msgstr "Actie :"
+
+#: yd-wpmu-bloglist-widget.php:115
+msgid "I should now"
+msgstr "Ik moet nu"
+
+#: yd-wpmu-bloglist-widget.php:116
+#: yd-wpmu-bloglist-widget.php:226
+msgid "Clear cache"
+msgstr "Schoonmaken cache"
+
+#: yd-wpmu-bloglist-widget.php:118
+msgid "Caches are cleared"
+msgstr "Caches worden schoongemaakt"
+
+#: yd-wpmu-bloglist-widget.php:119
+#: yd-wpmu-bloglist-widget.php:227
+msgid "Reset widget options"
+msgstr "Reset widget opties"
+
+#: yd-wpmu-bloglist-widget.php:121
+msgid "Widget options are reset"
+msgstr "Widget options zijn gereset"
+
+#: yd-wpmu-bloglist-widget.php:122
+#: yd-wpmu-bloglist-widget.php:220
+msgid "Update widget options"
+msgstr "Aktualiseer widget opties"
+
+#: yd-wpmu-bloglist-widget.php:124
+msgid "Widget options are updated"
+msgstr "Widget opties worden geaktualiseerd"
+
+#: yd-wpmu-bloglist-widget.php:129
+msgid "Welcome to YD WPMU Bloglist Admin Page."
+msgstr "Welkom bij de YD WPMU Bloglist beheer pagina."
+
+#: yd-wpmu-bloglist-widget.php:140
+msgid "HTML display options:"
+msgstr "HTML weergave opties:"
+
+#: yd-wpmu-bloglist-widget.php:142
+msgid "Column count:"
+msgstr "Kolom telling:"
+
+#: yd-wpmu-bloglist-widget.php:145
+msgid "Before block:"
+msgstr "Voor blok:"
+
+#: yd-wpmu-bloglist-widget.php:148
+msgid "After block:"
+msgstr "Na het blok:"
+
+#: yd-wpmu-bloglist-widget.php:151
+msgid "Before column:"
+msgstr "Voor kolom:"
+
+#: yd-wpmu-bloglist-widget.php:154
+msgid "After column:"
+msgstr "Na kolom:"
+
+#: yd-wpmu-bloglist-widget.php:157
+msgid "Before list:"
+msgstr "Voor lijst:"
+
+#: yd-wpmu-bloglist-widget.php:160
+msgid "After list:"
+msgstr "Na lijst:"
+
+#: yd-wpmu-bloglist-widget.php:163
+msgid "Before item:"
+msgstr "Voor item:"
+
+#: yd-wpmu-bloglist-widget.php:166
+msgid "After item:"
+msgstr "Na item :"
+
+#: yd-wpmu-bloglist-widget.php:169
+msgid "Before count:"
+msgstr "Voor telling:"
+
+#: yd-wpmu-bloglist-widget.php:172
+msgid "After count:"
+msgstr "Na telling:"
+
+#: yd-wpmu-bloglist-widget.php:176
+msgid "Plural form:"
+msgstr "Meervoud:"
+
+#: yd-wpmu-bloglist-widget.php:179
+msgid "Link ALT text:"
+msgstr "Link ALT tekst:"
+
+#: yd-wpmu-bloglist-widget.php:182
+msgid "Link TITLE text:"
+msgstr "Link TITEL tekst:"
+
+#: yd-wpmu-bloglist-widget.php:187
+msgid "Data extract and sort options:"
+msgstr "Data extract en sorteer opties:"
+
+#: yd-wpmu-bloglist-widget.php:189
+msgid "Limit:"
+msgstr "Limiet:"
+
+#: yd-wpmu-bloglist-widget.php:192
+msgid "Order by:"
+msgstr "Sorteer op:"
+
+#: yd-wpmu-bloglist-widget.php:195
+msgid "Blog name"
+msgstr "Blog naam"
+
+#: yd-wpmu-bloglist-widget.php:196
+msgid "Blog url path"
+msgstr "Blog url pad"
+
+#: yd-wpmu-bloglist-widget.php:197
+msgid "Blog post count"
+msgstr "Blog bericht telling"
+
+#: yd-wpmu-bloglist-widget.php:198
+msgid "Blog creation date"
+msgstr "Blog aanmaakdatum"
+
+#: yd-wpmu-bloglist-widget.php:199
+msgid "Blog last update"
+msgstr "Laatste update blog"
+
+#: yd-wpmu-bloglist-widget.php:207
+msgid "Sort order:"
+msgstr "Sorteervolgorde:"
+
+#: yd-wpmu-bloglist-widget.php:210
+msgid "Ascending"
+msgstr "Opgaand"
+
+#: yd-wpmu-bloglist-widget.php:211
+msgid "Descending"
+msgstr "Neergaand"
+
+#: yd-wpmu-bloglist-widget.php:230
+msgid "Add trailing slashes to blog URLs:"
+msgstr "Voeg schuine strepen toe aan blog URL's:"
+
+#: yd-wpmu-bloglist-widget.php:339
+msgid "Whatever:"
+msgstr "Wat:"
+
+#: yd-wpmu-bloglist-widget.php:345
+msgid "Bottom text:"
+msgstr "Onderste tekst:"
+
+#: yd-wpmu-bloglist-widget.php:353
+msgid "link:"
+msgstr "link:"
+
+#: yd-wpmu-bloglist-widget.php:584
+msgid "clear"
+msgstr "verwijderen"
+
+#: yd-wpmu-bloglist-widget.php:177
+msgid "(use %S% to insert plural form; use &lt!-- and --&gt; to hide count)"
+msgstr "(gebruik %S% om meervoudsvorm in te voegen; gebruik &lt!-- en --&gt; om tellen te verbergen)"
+
+#: yd-wpmu-bloglist-widget.php:189
+msgid "(use %B% to insert blog name into link ALT or TITLE text)"
+msgstr "(gebruik %B% om de blog naam in ALT of titeltekst in te voegen)"
+
+#: yd-wpmu-bloglist-widget.php:197
+msgid "(0 = no limit)"
+msgstr "(0 = geen limiet)"
+
+#: yd-wpmu-bloglist-widget.php:70
+msgid " post%S% )</span>"
+msgstr "bericht%S% )</span>"
+
+#: yd-wpmu-bloglist-widget.php:73
+#: yd-wpmu-bloglist-widget.php:74
+msgid "%B% blog"
+msgstr "%B% blog"
+
+#: yd-wpmu-bloglist-widget.php:459
+msgid "There are currently no active blogs."
+msgstr "Er zijn momenteel geen actieve blogs."
+

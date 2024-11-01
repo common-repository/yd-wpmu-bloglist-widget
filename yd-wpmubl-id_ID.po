@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YD WPMU Bloglist Widget v2.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-01-31 00:38:13+0000\n"
+"Last-Translator: Syamsul Alam <admin@alampintar.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: yd-wpmu-bloglist-widget.php:111
+#, php-format
+#@ yd-wpmubl
+msgid " post%S% )</span>"
+msgstr " post%S% )</span>"
+
+#: yd-wpmu-bloglist-widget.php:115
+#, php-format
+#@ yd-wpmubl
+msgid "%B% blog"
+msgstr "%B% blog"
+
+#: yd-wpmu-bloglist-widget.php:151
+#: yd-wpmu-bloglist-widget.php:181
+#@ yd-wpmubl
+msgid "YD WPMU Bloglist Options"
+msgstr "Opsi Bloglist YD WPMU"
+
+#: yd-wpmu-bloglist-widget.php:153
+#: yd-wpmu-bloglist-widget.php:720
+#: yd-wpmu-bloglist-widget.php:721
+#@ yd-wpmubl
+msgid "YD WPMU Bloglist"
+msgstr "Bloglist YD WPMU"
+
+#: yd-wpmu-bloglist-widget.php:165
+#@ yd-wpmubl
+msgid "This will disable the link in your blog footer. If you are using this plugin on your site and like it, did you consider making a donation? -- Thanks."
+msgstr "Ini akan me-nonaktifkan link di footer blog anda. Jika anda memasang plugin ini di situs anda dan puas, sudahkan anda memikirkan untuk donasi? -- Trims"
+
+#: yd-wpmu-bloglist-widget.php:185
+#@ yd-wpmubl
+msgid "Action:"
+msgstr "Aksi"
+
+#: yd-wpmu-bloglist-widget.php:186
+#@ yd-wpmubl
+msgid "I should now"
+msgstr "Sekarang saya harus"
+
+#: yd-wpmu-bloglist-widget.php:186
+#@ yd-wpmubl
+msgid "do"
+msgstr "lakukan"
+
+#: yd-wpmu-bloglist-widget.php:187
+#: yd-wpmu-bloglist-widget.php:522
+#@ yd-wpmubl
+msgid "Clear cache"
+msgstr "Bersihkan cache"
+
+#: yd-wpmu-bloglist-widget.php:189
+#@ yd-wpmubl
+msgid "Caches are cleared"
+msgstr "Cache telah dibersihkan"
+
+#: yd-wpmu-bloglist-widget.php:190
+#: yd-wpmu-bloglist-widget.php:213
+#: yd-wpmu-bloglist-widget.php:523
+#@ yd-wpmubl
+msgid "Reset widget options"
+msgstr "Reset opsi widget"
+
+#: yd-wpmu-bloglist-widget.php:192
+#@ yd-wpmubl
+msgid "Widget options are reset"
+msgstr "Opsi widget telah di-reset"
+
+#: yd-wpmu-bloglist-widget.php:193
+#: yd-wpmu-bloglist-widget.php:513
+#@ yd-wpmubl
+msgid "Update widget options"
+msgstr "Perbarui opsi widget"
+
+#: yd-wpmu-bloglist-widget.php:195
+#@ yd-wpmubl
+msgid "Widget options are updated"
+msgstr "Opsi widget telah diperbarui"
+
+#: yd-wpmu-bloglist-widget.php:202
+#@ yd-wpmubl
+msgid "Welcome to YD WPMU Bloglist Admin Page."
+msgstr "Selamat datang di Halaman Admin YD WPMU Bloglist"
+
+#: yd-wpmu-bloglist-widget.php:211
+#@ yd-wpmubl
+msgid "Uh-oh. Looks like I lost my settings. Sorry."
+msgstr "Uh-Oh. Sepertinya saya menghilangkan pengaturan saya. Maaf."
+
+#: yd-wpmu-bloglist-widget.php:231
+#@ yd-wpmubl
+msgid "Considered donating?"
+msgstr "Berpikir untuk donasi?"
+
+#: yd-wpmu-bloglist-widget.php:235
+#@ yd-wpmubl
+msgid "Enjoy this plugin?"
+msgstr "Puas dengan plugin ini?"
+
+#: yd-wpmu-bloglist-widget.php:235
+#@ yd-wpmubl
+msgid "Help me improve it!"
+msgstr "Bantu saya merperbagusnya!"
+
+#: yd-wpmu-bloglist-widget.php:240
+#: yd-wpmu-bloglist-widget.php:241
+#@ yd-wpmubl
+msgid "en_US"
+msgstr "en_US"
+
+#: yd-wpmu-bloglist-widget.php:243
+#@ yd-wpmubl
+msgid "Thanks"
+msgstr "Trims"
+
+#: yd-wpmu-bloglist-widget.php:250
+#@ yd-wpmubl
+msgid "Disable backlink in the blog footer:"
+msgstr "Non-aktifkan backlink di footer blog."
+
+#: yd-wpmu-bloglist-widget.php:263
+#@ yd-wpmubl
+msgid "Credits"
+msgstr "Kredit"
+
+#: yd-wpmu-bloglist-widget.php:265
+#@ yd-wpmubl
+msgid "Initial funding"
+msgstr "Pendanaan awal"
+
+#: yd-wpmu-bloglist-widget.php:267
+#@ yd-wpmubl
+msgid "Translations"
+msgstr "Terjemahan"
+
+#: yd-wpmu-bloglist-widget.php:269
+#@ yd-wpmubl
+msgid "English:"
+msgstr "Inggris:"
+
+#: yd-wpmu-bloglist-widget.php:270
+#@ yd-wpmubl
+msgid "French:"
+msgstr "Perancis:"
+
+#: yd-wpmu-bloglist-widget.php:271
+#@ yd-wpmubl
+msgid "Spanish:"
+msgstr "Spanyol:"
+
+#: yd-wpmu-bloglist-widget.php:272
+#@ yd-wpmubl
+msgid "Galician:"
+msgstr "Galisian:"
+
+#: yd-wpmu-bloglist-widget.php:273
+#@ yd-wpmubl
+msgid "Dutch:"
+msgstr "Belanda:"
+
+#: yd-wpmu-bloglist-widget.php:274
+#@ yd-wpmubl
+msgid "German:"
+msgstr "Jerman:"
+
+#: yd-wpmu-bloglist-widget.php:275
+#@ yd-wpmubl
+msgid "Ukrainian:"
+msgstr "Ukraina:"
+
+#: yd-wpmu-bloglist-widget.php:277
+#@ yd-wpmubl
+msgid "If you want to contribute to a translation of this plugin, please drop me a line by "
+msgstr "Jiika anda ingin turut menerjemahkan plugin ini, tolong hubungi saya lewat "
+
+#: yd-wpmu-bloglist-widget.php:278
+#@ yd-wpmubl
+msgid "e-mail"
+msgstr "surel"
+
+#: yd-wpmu-bloglist-widget.php:279
+#@ yd-wpmubl
+msgid "or leave a comment on the "
+msgstr "atau tinggalkan pesan di "
+
+#: yd-wpmu-bloglist-widget.php:280
+#@ yd-wpmubl
+msgid "plugin's page"
+msgstr "halaman plugin"
+
+#: yd-wpmu-bloglist-widget.php:281
+#@ yd-wpmubl
+msgid "You will get credit for your translation in the plugin file and the documentation page, "
+msgstr "Anda akan mendapat kredit atas penerjemahan anda di file plugin dan di halaman dokumentasi, "
+
+#: yd-wpmu-bloglist-widget.php:282
+#@ yd-wpmubl
+msgid "as well as a link on this page and on my developers' blog."
+msgstr " juga link di halaman ini dan di blog pengembangan saya."
+
+#: yd-wpmu-bloglist-widget.php:290
+#: yd-wpmu-bloglist-widget.php:578
+#@ yd-wpmubl
+#@ default
+msgid "Support"
+msgstr "Dukungan"
+
+#: yd-wpmu-bloglist-widget.php:292
+#@ yd-wpmubl
+msgid "Free support"
+msgstr "Dukungan gratis"
+
+#: yd-wpmu-bloglist-widget.php:294
+#@ yd-wpmubl
+msgid "Support page:"
+msgstr "Halaman penunjang:"
+
+#: yd-wpmu-bloglist-widget.php:295
+#@ yd-wpmubl
+msgid "here."
+msgstr "di sini."
+
+#: yd-wpmu-bloglist-widget.php:296
+#@ yd-wpmubl
+msgid "(use comments!)"
+msgstr "(gunakan komentar!)"
+
+#: yd-wpmu-bloglist-widget.php:298
+#@ yd-wpmubl
+msgid "Professional consulting"
+msgstr "Konsultan profesional"
+
+#: yd-wpmu-bloglist-widget.php:299
+#@ yd-wpmubl
+msgid "I am available as an experienced free-lance Wordpress plugin developer and web consultant. "
+msgstr "Saya terbuka dalam kapasitas sebagai pengembang plugin Wordpress berpengalaman dan konsultan web. "
+
+#: yd-wpmu-bloglist-widget.php:300
+#@ yd-wpmubl
+msgid "Please feel free to <a href=\"mailto:yann@abc.fr\">check with me</a> for any adaptation or specific implementation of this plugin. "
+msgstr "Mohon jangan sungkan untuk <a href=\"mailto:yann@abc.fr\">kontak saya</a> untuk perubahan apapun atau implementasi khusus dari plugin ini. "
+
+#: yd-wpmu-bloglist-widget.php:301
+#@ yd-wpmubl
+msgid "Or for any WP-related custom development or consulting work. Hourly rates available."
+msgstr "Atau untuk pengembangan khusus apapun yang berkaitan dengan WP atau untuk pekerjaan konsultasi. Tarif perjam tersedia."
+
+#: yd-wpmu-bloglist-widget.php:319
+#@ yd-wpmubl
+msgid "HTML display options:"
+msgstr "Opsi tampilan HTML:"
+
+#: yd-wpmu-bloglist-widget.php:322
+#@ yd-wpmubl
+msgid "Column count:"
+msgstr "Jumlah kolom:"
+
+#: yd-wpmu-bloglist-widget.php:325
+#@ yd-wpmubl
+msgid "Before block:"
+msgstr "Sebelum blok:"
+
+#: yd-wpmu-bloglist-widget.php:328
+#@ yd-wpmubl
+msgid "After block:"
+msgstr "Setelah blok:"
+
+#: yd-wpmu-bloglist-widget.php:331
+#@ yd-wpmubl
+msgid "Before column:"
+msgstr "Sebelum kolom:"
+
+#: yd-wpmu-bloglist-widget.php:334
+#@ yd-wpmubl
+msgid "After column:"
+msgstr "Setelah kolom:"
+
+#: yd-wpmu-bloglist-widget.php:337
+#@ yd-wpmubl
+msgid "Before list:"
+msgstr "Sebelum daftar:"
+
+#: yd-wpmu-bloglist-widget.php:340
+#@ yd-wpmubl
+msgid "After list:"
+msgstr "Setelah daftar:"
+
+#: yd-wpmu-bloglist-widget.php:343
+#@ yd-wpmubl
+msgid "Before item:"
+msgstr "Sebelum item:"
+
+#: yd-wpmu-bloglist-widget.php:346
+#@ yd-wpmubl
+msgid "After item:"
+msgstr "Setelah item:"
+
+#: yd-wpmu-bloglist-widget.php:349
+#@ yd-wpmubl
+msgid "Before count:"
+msgstr "Sebelum perhitungan:"
+
+#: yd-wpmu-bloglist-widget.php:352
+#@ yd-wpmubl
+msgid "After count:"
+msgstr "Setelah perhitungan:"
+
+#: yd-wpmu-bloglist-widget.php:356
+#, php-format
+#@ yd-wpmubl
+msgid "(use %S% to insert plural form; use &lt!-- and --&gt; to hide count)"
+msgstr "(gunakan %S% untuk memasukan bentuk plural; gunakan &lt!-- dan --&gt; untuk menyembunyikan perhitungan)"
+
+#: yd-wpmu-bloglist-widget.php:358
+#@ yd-wpmubl
+msgid "Plural form:"
+msgstr "Bentuk plural:"
+
+#: yd-wpmu-bloglist-widget.php:361
+#@ yd-wpmubl
+msgid "Link ALT text:"
+msgstr "Sambungkan teks ALT:"
+
+#: yd-wpmu-bloglist-widget.php:364
+#@ yd-wpmubl
+msgid "Link TITLE text:"
+msgstr "Sambungkan teks TITLE:"
+
+#: yd-wpmu-bloglist-widget.php:368
+#, php-format
+#@ yd-wpmubl
+msgid "(use %B% to insert blog name into link ALT or TITLE text)"
+msgstr "(gunakan %B% untuk memasukan nama blog ke link teks ALT atau TITLE)"
+
+#: yd-wpmu-bloglist-widget.php:378
+#@ yd-wpmubl
+msgid "Data extract and sort options:"
+msgstr "Ekstraksi data dan pengurutan opsi:"
+
+#: yd-wpmu-bloglist-widget.php:381
+#@ yd-wpmubl
+msgid "Limit:"
+msgstr "Batas:"
+
+#: yd-wpmu-bloglist-widget.php:384
+#@ yd-wpmubl
+msgid "(0 = no limit)"
+msgstr "(0 = tidak terbatas)"
+
+#: yd-wpmu-bloglist-widget.php:385
+#@ yd-wpmubl
+msgid "Order by:"
+msgstr "Urutkan berdasarkan:"
+
+#: yd-wpmu-bloglist-widget.php:388
+#@ yd-wpmubl
+msgid "Blog name"
+msgstr "Nama blog"
+
+#: yd-wpmu-bloglist-widget.php:389
+#@ yd-wpmubl
+msgid "Blog url path"
+msgstr "jalur url Blog"
+
+#: yd-wpmu-bloglist-widget.php:390
+#@ yd-wpmubl
+msgid "Blog url domain"
+msgstr "Domain url Blog"
+
+#: yd-wpmu-bloglist-widget.php:391
+#@ yd-wpmubl
+msgid "Blog post count"
+msgstr "Jumlah post Blog"
+
+#: yd-wpmu-bloglist-widget.php:392
+#@ yd-wpmubl
+msgid "Blog creation date"
+msgstr "Tanggal pembuatan Blog"
+
+#: yd-wpmu-bloglist-widget.php:393
+#@ yd-wpmubl
+msgid "Blog last update"
+msgstr "Perbaruan terakhir Blog"
+
+#: yd-wpmu-bloglist-widget.php:394
+#@ yd-wpmubl
+msgid "Blog ID"
+msgstr "ID Blog"
+
+#: yd-wpmu-bloglist-widget.php:402
+#@ yd-wpmubl
+msgid "Sort order:"
+msgstr "Urutan penyusunan:"
+
+#: yd-wpmu-bloglist-widget.php:405
+#@ yd-wpmubl
+msgid "Ascending"
+msgstr "Kecil ke Besar"
+
+#: yd-wpmu-bloglist-widget.php:406
+#@ yd-wpmubl
+msgid "Descending"
+msgstr "Besar ke Kecil"
+
+#: yd-wpmu-bloglist-widget.php:414
+#@ yd-wpmubl
+msgid "Add trailing slashes to blog URLs:"
+msgstr "Tambahkan garis miring ke URl blog:"
+
+#: yd-wpmu-bloglist-widget.php:418
+#@ yd-wpmubl
+msgid "Enable WPML language filter support:"
+msgstr "Aktifkan dukungan filter bahasa WPML:"
+
+#: yd-wpmu-bloglist-widget.php:430
+#@ yd-wpmubl
+msgid "Blog selection options:"
+msgstr "Opsi pemilihan blog:"
+
+#: yd-wpmu-bloglist-widget.php:439
+#@ yd-wpmubl
+msgid "Only propagate to blogs marked as public:"
+msgstr "Hanya sebarkan di blog yang ditandai sebagai publik:"
+
+#: yd-wpmu-bloglist-widget.php:451
+#@ yd-wpmubl
+msgid "Skip blogs marked as archived:"
+msgstr "Lewati blog yang ditandai sebagai archived:"
+
+#: yd-wpmu-bloglist-widget.php:463
+#@ yd-wpmubl
+msgid "Skip blogs marked as mature:"
+msgstr "Lewati blog yang ditandai sebagai dewasa:"
+
+#: yd-wpmu-bloglist-widget.php:475
+#@ yd-wpmubl
+msgid "Skip blogs marked as spam:"
+msgstr "Lewati blog yang ditandai sebagai spam:"
+
+#: yd-wpmu-bloglist-widget.php:487
+#@ yd-wpmubl
+msgid "Skip blogs marked as deleted:"
+msgstr "Lewati blog yang ditandai sebagai terhapus:"
+
+#: yd-wpmu-bloglist-widget.php:499
+#@ yd-wpmubl
+msgid "Skip blog IDs:"
+msgstr "Lewati ID blog:"
+
+#: yd-wpmu-bloglist-widget.php:503
+#@ yd-wpmubl
+msgid "(comma-separated list of blog IDs to avoid)"
+msgstr "(daftar yang terpisah-koma dari ID blog yang dihindari)"
+
+#: yd-wpmu-bloglist-widget.php:577
+#: yd-wpmu-bloglist-widget.php:583
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: yd-wpmu-bloglist-widget.php:702
+#@ yd-wpmubl
+msgid "Widget title:"
+msgstr "Judul widget:"
+
+#: yd-wpmu-bloglist-widget.php:818
+#@ yd-wpmubl
+msgid "Untitled"
+msgstr "Tanpa judul"
+
+#: yd-wpmu-bloglist-widget.php:858
+#@ yd-wpmubl
+msgid "There are currently no active blogs."
+msgstr "Saat ini tidak ada blog yang aktif."
+
+#: yd-wpmu-bloglist-widget.php:1127
+#@ yd-wpmubl
+msgid "clear"
+msgstr "bersihkan"
+
